@@ -1,0 +1,45 @@
+# Laravel specific
+/vendor/
+/node_modules/
+/public/hot
+/public/storage
+/storage/*.key
+/.env
+/.env.*.local
+/.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+# OS generated
+.DS_Store
+.idea
+.vscode
+*.swp
+*.swo
+Thumbs.db
+
+# Logs
+*.log
+*.log.*
+*.logs
+/storage/logs/*.log
+
+# Cache
+bootstrap/cache/*
+!bootstrap/cache/.gitkeep
+
+# Session files
+storage/framework/sessions/*
+!storage/framework/sessions/.gitkeep
+
+# Testing
+.phpunit.result.cache
+.coverage
+.phpunit.cache
+
+# Deployment
+.env.production
+.php-cs-fixer.cache
+docker-compose.override.yml
