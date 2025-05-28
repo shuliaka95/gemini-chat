@@ -27,7 +27,7 @@ A chatbot implementation using Google's Gemini API with Laravel.
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/your-username/gemini-chatbot.git
+   git clone https://github.com/shuliaka95/gemini-chatbot.git
    cd gemini-chatbot
    ```
 
